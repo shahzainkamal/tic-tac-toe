@@ -1,0 +1,207 @@
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  background-color: rgb(12, 34, 26);
+  font-family: Arial, Helvetica, sans-serif;
+}
+.first-section {
+  display: flex;
+  gap: 30px;
+  padding-left: 40%;
+  padding-top: 20%;
+}
+.first-section-one img {
+  width: 50px;
+  padding-right: 50px;
+}
+.first-section-two img {
+  width: 15px;
+}
+.first-section-two {
+  color: white;
+  background-color: rgb(23, 51, 34);
+  width: 120px;
+  text-align: center;
+  border-radius: 5px;
+  font-size: 17px;
+  padding-top: 5px;
+  box-shadow: 0px 2px 1px gray;
+}
+.first-section-three img {
+  background-color: white;
+
+  border-radius: 15px;
+}
+.first-section-three {
+  background-color: white;
+  border-radius: 30px;
+  margin-left: 50px;
+  width: 30px;
+  padding-left: 10px;
+  padding-top: 5px;
+}
+
+/* second-section */
+
+.second-section {
+  display: flex;
+  padding-left: 40%;
+  padding-top: 30px;
+  gap: 30px;
+}
+.second-section-one {
+  /* padding-left: 17%; */
+  background-color: rgb(23, 51, 34);
+  border-radius: 10px;
+  width: 11%;
+  box-shadow: 0px 4px 1px gray;
+  padding-left: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.second-section-two img {
+  padding-left: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.second-section-two {
+  /* padding-left: 17%; */
+  background-color: rgb(23, 51, 34);
+  border-radius: 10px;
+  width: 14%;
+  box-shadow: 0px 4px 1px gray;
+}
+.second-section-three {
+  /* padding-left: 17%; */
+  background-color: rgb(23, 51, 34);
+  border-radius: 10px;
+  width: 11%;
+  box-shadow: 0px 4px 1px gray;
+  padding-left: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+/* third-section */
+
+.third-section {
+  display: flex;
+  padding-left: 40%;
+  padding-top: 30px;
+  gap: 30px;
+}
+.third-section-one {
+  background-color: rgb(23, 51, 34);
+  border-radius: 10px;
+  width: 14%;
+  box-shadow: 0px 4px 1px gray;
+  /* padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px; */
+}
+.third-section-one img {
+  padding-left: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.third-section-two {
+  background-color: rgb(23, 51, 34);
+  border-radius: 10px;
+  width: 14%;
+  box-shadow: 0px 4px 1px gray;
+}
+.third-section-two img {
+  padding-left: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.third-section-three {
+  background-color: rgb(23, 51, 34);
+  border-radius: 10px;
+  width: 14%;
+  box-shadow: 0px 4px 1px gray;
+}
+.third-section-three img {
+  padding-left: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+/* four-section */
+.four-section {
+  display: flex;
+  padding-left: 40%;
+  padding-top: 30px;
+  gap: 30px;
+}
+.four-section-one {
+  background-color: rgb(23, 51, 34);
+  border-radius: 10px;
+  width: 14%;
+  box-shadow: 0px 4px 1px gray;
+}
+.four-section-two {
+  background-color: rgb(23, 51, 34);
+  border-radius: 10px;
+  width: 14%;
+  box-shadow: 0px 4px 1px gray;
+}
+.four-section-two img {
+  padding-left: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.four-section-three {
+  background-color: rgb(23, 51, 34);
+  border-radius: 10px;
+  width: 14%;
+  box-shadow: 0px 4px 1px gray;
+}
+.four-section-three img {
+  padding-left: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+/* five-section */
+.five-section {
+  display: flex;
+  padding-left: 40%;
+  gap: 30px;
+}
+.five-section-one {
+  background-color: rgb(24, 175, 212);
+  margin-top: 30px;
+  width: 110px;
+  height: 80px;
+  border-radius: 15px;
+  font-size: 15px;
+  text-align: center;
+}
+.five-section-one span {
+  font-weight: bolder;
+}
+.five-section-two {
+  background-color: rgb(206, 214, 214);
+  margin-top: 30px;
+  width: 110px;
+  height: 80px;
+  border-radius: 15px;
+  font-size: 15px;
+  text-align: center;
+}
+.five-section-two span {
+  font-weight: bolder;
+}
+.five-section-three {
+  background-color: rgb(248, 213, 15);
+  margin-top: 30px;
+  width: 110px;
+  height: 80px;
+  border-radius: 15px;
+  font-size: 15px;
+  text-align: center;
+}
+.five-section-three span {
+  font-weight: bolder;
+}
